@@ -1,7 +1,10 @@
-这是所有完成的（或正在编写中的）来自洛谷原创题库的试题。
-所有代码及注释均为本人原创。
+这些是作者在学习C++时所做的题目和它们的题解。
 
-试题：©洛谷 From: luogu.com.cn
-题解：©航旗 From: m@hqblog.cn (https://www.hqblog.cn/)
+如你所见，这里面有各个文件夹，其中的来源分别是：
+- luogu: [洛谷](https://www.luogu.com.cn/)
+- uva: [UVa Online Judge](https://uva.onlinejudge.org/)
+- poj: [PKU JudgeOnline](http://poj.org/)
 
-转载请声明。
+作者之前所做的题目会逐一倒序上传，所以可能你看到的题目很少，甚至没有。
+作者会对一些有所心得的题目加入一些讲解和注释，在转载时请注明来源。
+附上作者的博客链接：[航旗BLOG](https://www.hqblog.cn/)
