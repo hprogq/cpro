@@ -12,3 +12,5 @@
 作者会对一些有所心得的题目加入一些讲解和注释，在转载时请注明来源。
 
 附上作者的博客链接：[航旗BLOG](https://www.hqblog.cn/)
+
+（本次更新旨在测试[code-server](https://github.com/cdr/code-server)系统）
